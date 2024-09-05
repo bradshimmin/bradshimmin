@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bradshimmin
-- 👀 I’m interested in AI, data science, Linux, and wherever my curiosity takes me
-- 🌱 I’m currently learning Python, Pandas, Scikit-Learn, TensorFlow, and Lisp (for some crazy reason)
-- 💞️ I’m looking to collaborate on open source projects doing basic documentation for right now
+- 👀 I’m interested in AI (Generative AI in particular), software development, Linux, and whatever bewilders me
+- 🌱 I’m currently attempting to learn more about Python, Pandas, and all of the wonderful Python packages out there.
+- 💞️ I’m looking to collaborate on open source projects doing basic documentation and light bug fixes
 - 📫 How to reach me: https://www.linkedin.com/in/bradshimmin/
 
 <!---
