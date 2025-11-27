@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bradshimmin
-- 👀 I’m interested in AI (Generative AI in particular), software development, Linux, and whatever bewilders me
-- 🌱 I’m currently attempting to learn more about Python, Pandas, and all of the wonderful Python packages out there.
+- 👀 I’m interested in AI (Generative and Agentic AI in particular), software development, Linux, and whatever bewilders me
+- 🌱 I’m currently attempting to deepen my somewhat tenuous grasp on Python and programming practices in general.
 - 💞️ I’m looking to collaborate on open source projects doing basic documentation and light bug fixes
 - 📫 How to reach me: https://www.linkedin.com/in/bradshimmin/
 
